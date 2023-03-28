@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# run the application in watch mode with cargo-leptos
+cargo leptos watch
